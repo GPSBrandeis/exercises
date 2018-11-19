@@ -1,0 +1,52 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (KalmanFilter.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  KalmanFilterMouse.cpp
+c:\toolsdirectory\opencv\exercises\week_5\real_time_pose_estimation\kalmanfilter\kalmanfiltermouse.cpp(38): warning C4244: '=': conversion from 'LONG' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\toolsdirectory\opencv\exercises\week_5\real_time_pose_estimation\kalmanfilter\kalmanfiltermouse.cpp(39): warning C4244: '=': conversion from 'LONG' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\toolsdirectory\opencv\exercises\week_5\real_time_pose_estimation\kalmanfilter\kalmanfiltermouse.cpp(56): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\toolsdirectory\opencv\exercises\week_5\real_time_pose_estimation\kalmanfilter\kalmanfiltermouse.cpp(60): warning C4244: '=': conversion from 'LONG' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\toolsdirectory\opencv\exercises\week_5\real_time_pose_estimation\kalmanfilter\kalmanfiltermouse.cpp(61): warning C4244: '=': conversion from 'LONG' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\toolsdirectory\opencv\exercises\week_5\real_time_pose_estimation\kalmanfilter\kalmanfiltermouse.cpp(66): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\toolsdirectory\opencv\exercises\week_5\real_time_pose_estimation\kalmanfilter\kalmanfiltermouse.cpp(67): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\ToolsDirectory\opencv\exercises\week_5\real_time_pose_estimation\x64\Debug\KalmanFilterMouse.exe) does not match the Linker's OutputFile property value (C:\ToolsDirectory\opencv\exercises\bin\Debug\KalmanFilterMouse.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  KalmanFilter.vcxproj -> C:\ToolsDirectory\opencv\exercises\week_5\real_time_pose_estimation\x64\Debug\KalmanFilterMouse.exe

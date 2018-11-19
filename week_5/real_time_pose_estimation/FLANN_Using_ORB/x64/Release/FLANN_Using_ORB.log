@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  FLANN_Using_ORB.cpp
+c:\toolsdirectory\opencv\exercises\week_5\real_time_pose_estimation\flann_using_orb\flann_using_orb.cpp(79): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  RobustMatcher.cpp
+c:\toolsdirectory\opencv\exercises\week_5\real_time_pose_estimation\flann_using_orb\robustmatcher.cpp(153): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
