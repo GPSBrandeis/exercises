@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bgfg_Segmentation", "bgfg_Segmentation\bgfg_Segmentation.vcxproj", "{C1B0F313-114B-4F71-86AF-FC9744AD1EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B0F313-114B-4F71-86AF-FC9744AD1EFA}.Debug|x64.ActiveCfg = Debug|x64
+		{C1B0F313-114B-4F71-86AF-FC9744AD1EFA}.Debug|x64.Build.0 = Debug|x64
+		{C1B0F313-114B-4F71-86AF-FC9744AD1EFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1B0F313-114B-4F71-86AF-FC9744AD1EFA}.Debug|x86.Build.0 = Debug|Win32
+		{C1B0F313-114B-4F71-86AF-FC9744AD1EFA}.Release|x64.ActiveCfg = Release|x64
+		{C1B0F313-114B-4F71-86AF-FC9744AD1EFA}.Release|x64.Build.0 = Release|x64
+		{C1B0F313-114B-4F71-86AF-FC9744AD1EFA}.Release|x86.ActiveCfg = Release|Win32
+		{C1B0F313-114B-4F71-86AF-FC9744AD1EFA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8FA86FF-B4D3-4B43-94A9-F8C39F5E7C78}
+	EndGlobalSection
+EndGlobal
